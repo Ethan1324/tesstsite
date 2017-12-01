@@ -45,3 +45,9 @@
   background-color: black;
   background-position: left top;
 }
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden
+  }
