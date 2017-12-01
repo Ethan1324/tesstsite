@@ -40,11 +40,10 @@
 }
 .background {
   background-image: url("http://www.wallpapermade.com/images/wallpapers/originals/bridge-over-the-river-autumn-landscape-wallpaper-5145.jpg");
-  background-size: 3840px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-color: black;
   background-position: left top;
-  width: auto;
 }
 html,
 body {
