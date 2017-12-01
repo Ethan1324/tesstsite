@@ -1,0 +1,47 @@
+.uppercase {
+  text-transform: uppercase;
+}
+.pop {
+  text-transform: uppercase;
+  color: red;
+}
+.redlistitems li {
+  color: red;
+}
+.bluelistitems li {
+  color: blue;
+}
+.center {
+  text-align: center;
+}
+.whitebg {
+  background-color: white;
+  margin: auto;
+  opacity: 0.75;
+  padding: 10px;
+  padding-top: 1px;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 25%;
+}
+.whitebg ul {
+  text-align: left;
+  margin: auto;
+  width: 32%;
+  padding-bottom: 15px;
+}
+.title {
+  font-family: Arial;
+}
+.title span {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: red;
+}
+.background {
+  background-image: url("https://www.hdwallpapers.in/walls/beautiful_landscape-wide.jpg");
+  background-size: 2000px;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: left top;
+}
